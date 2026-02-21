@@ -1,31 +1,22 @@
 ---
 layout: default
-title: Frances LeDuke
+title: Home
 ---
 
-# Frances LeDuke
+<div class="hero">
 
-### Complex Systems | Neural Dynamics | Human Ecology
+<div class="hero-text">
 
-I study how interacting systems generate patterns — from neural populations to human-environment networks.
+# Fran L.
 
-Currently pursuing graduate work in Information Science, integrating synchronization theory, neural modeling, and system-level analysis.
+**Engineer turned human ecologist exploring complex systems, cognition, and environment.**
 
----
+I study the intersection of neural dynamics, ecological systems, and human meaning.
 
-## Current Focus
+</div>
 
-- Wilson–Cowan neural population modeling  
-- Synchronization across coupled systems  
-- Conductivity matrices in networked dynamics  
-- Engineering → Human ecology transitions  
+<div class="hero-image">
+<img src="/assets/images/headshot.png" width="300">
+</div>
 
----
-
-## Explore
-
-→ [About](about.md)  
-→ [Research](research.md)  
-→ [Projects](projects.md)  
-→ [CV](cv.md)  
-→ [Contact](contact.md)
+</div>
