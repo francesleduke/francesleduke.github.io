@@ -1,5 +1,7 @@
 title: "Fran L."
 description: "Engineer turned human ecologist exploring complex systems, cognition, and environment."
+baseurl: ""       # leave empty for user site
+url: "https://francesleduke.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
